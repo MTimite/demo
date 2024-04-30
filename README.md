@@ -1,2 +1,2 @@
-Malamine is cool.
+Malamine just opened his new Git Repository.
 
